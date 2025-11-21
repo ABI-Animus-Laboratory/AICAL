@@ -1,0 +1,13 @@
+dgl==1.1.0
+graph-nets==1.1.0
+matplotlib==3.3.4
+networkx==2.5.1
+numpy==1.19.5
+pandas==1.3.5
+plotly==5.14.1
+scipy==1.5.4
+tensorflow-gpu==1.15
+torch==1.10.2
+dm-sonnet==1.36
+dm-tree==0.1.7
+protobuf==3.20.*
